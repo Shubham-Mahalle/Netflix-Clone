@@ -1,2 +1,2 @@
-# Create Netflix-Clone Project to learn Html and Css use to make frontend<br>
+# Create Netflix Static page Clone Project to learn Html and Css use to make frontend<br>
 
